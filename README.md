@@ -38,7 +38,7 @@ Top 3 Recommended Roles:
 - No match (cold start) shows a helpful message
 
 ## Live demo
-https://github.com/emanshafiq1402-en/DecodeLabs-Internship-Project-3
+https://emanshafiq1402-en.github.io/DecodeLabs-Internship-Project-3/
 
 ## Files
 - `main.py` - the recommender
